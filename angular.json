@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "frontend-iron"
+    }
+  },
+  "defaultProject": "frontend-iron",
+  "cli": {
+    "analytics": false
+  }
 }
